@@ -30,6 +30,8 @@
     line-height: 100px;
     vertical-align: middle;
     margin: 10px;
+    border-radius: 8px;
+    box-shadow: 10px 10px 5px #adb5bd7a;
 }
 
 .square-fizz-buzz {
@@ -40,6 +42,8 @@
     line-height: 100px;
     vertical-align: middle;
     margin: 10px;
+    border-radius: 8px;
+    box-shadow: 10px 10px 5px #dc35465d;
 }
 
 .square-fizz {
@@ -50,6 +54,8 @@
     line-height: 100px;
     vertical-align: middle;
     margin: 10px;
+    border-radius: 8px;
+    box-shadow: 10px 10px 5px  #ffc10767;
 }
 
 .square-buzz {
@@ -60,4 +66,6 @@
     line-height: 100px;
     vertical-align: middle;
     margin: 10px;
+    border-radius: 8px;
+    box-shadow: 10px 10px 5px #fd7d1457;
 }
